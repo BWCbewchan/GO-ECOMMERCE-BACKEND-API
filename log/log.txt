@@ -1,0 +1,2 @@
+2024-07-23T21:42:11.976+0700	INFO	cli/main.log.go:29	Info log	{"line": 1}
+2024-07-23T21:42:11.978+0700	ERROR	cli/main.log.go:30	Error log	{"line": 2}
